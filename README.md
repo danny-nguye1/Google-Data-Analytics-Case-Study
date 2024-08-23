@@ -22,6 +22,6 @@ This repository contains my analysis and findings for the [Google Data Analytics
 - [Tableau Dashboard](https://public.tableau.com/app/profile/danny.nguyen1367/viz/GoogleDataAnalyticsCaseStudy_17241631643040/Dashboard1) - created a dashboard in Tableau highlighing key data points
 
 ### Files
-- [cyclistic-case-study.Rmd](https://github.com/danny-nguye1/google-data-analytics-case-study/blob/main/cyclistic-case-study.Rmd) - original RMarkdown file containing full analysis
+- [cyclistic-case-study.Rmd](https://github.com/danny-nguye1/google-data-analytics-case-study/blob/52a69527cf50bb1ce159434d446abc8b387ebb57/cyclistic-case-study.Rmd) - original RMarkdown file containing full analysis
 - [cyclistic-case-study.pdf](https://github.com/danny-nguye1/google-data-analytics-case-study/blob/250e6145ca622ed54d0edba7cb79e64990a205f3/cyclistic-case-study.pdf) - knitted pdf format
 - [
