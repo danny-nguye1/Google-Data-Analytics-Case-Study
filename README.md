@@ -23,4 +23,4 @@ This repository contains my analysis and findings for the [Google Data Analytics
 
 ### Files
 - [cyclistic-case-study.Rmd](https://github.com/danny-nguye1/google-data-analytics-case-study/blob/main/cyclistic-case-study.Rmd) - original RMarkdown file containing full analysis
-- 
+- [cyclistic-case-study.pdf](
