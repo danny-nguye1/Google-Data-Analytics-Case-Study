@@ -26,4 +26,4 @@ This repository contains my analysis and findings for the [Google Data Analytics
 - [cyclistic-case-study.docx](https://github.com/danny-nguye1/google-data-analytics-case-study/blob/main/cyclistic-case-study.docx) - docx format (full analysis)
 - [cyclistic-case-study.pdf](https://github.com/danny-nguye1/google-data-analytics-case-study/blob/main/cyclistic-case-study.pdf) - pdf format (full analysis)
 - [tableau-dash.pdf](https://github.com/danny-nguye1/google-data-analytics-case-study/blob/main/tableau-dash.pdf) - pdf format
-- [tableau-dash.png]() - png format
+- [tableau-dash.png](https://github.com/danny-nguye1/google-data-analytics-case-study/blob/main/tableau-dash.png) - png format
